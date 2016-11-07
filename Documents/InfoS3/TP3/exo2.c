@@ -1,3 +1,8 @@
+blabla
+
+
+
+
 #include<stdio.h>
 
 /*fait la somme de la première diagonale*/
